@@ -16,12 +16,7 @@ tags:
 <h3>📚 TO DO LIST</h3>
 <br>
 
-<b>
-
 > 보유 자격증
-
-</b>
-
 - [x] 신용분석사
 - [x] 회계관리
 - [x] AFPK
@@ -37,12 +32,7 @@ tags:
 - [x] CRS, DCS - ABACUS, TOPAS
 <br>
 
-<b>
-
 > 취득 예정 자격증
-
-</b>
-
 - [ ] 정보처리기사
 - [ ] NCP
 - [ ] SQLD
