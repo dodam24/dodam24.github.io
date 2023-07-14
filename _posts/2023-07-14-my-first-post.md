@@ -1,6 +1,7 @@
 ---
-title: "Certificate"
-excerpt: "자격증 취득 내역"
+layout: single-github-blog
+title: "TO DO LIST"
+excerpt: "2023 자격증 취득 내역"
 
 categories:
  - Blog
@@ -13,7 +14,7 @@ tags:
  date: 2023-07-14
  last_modified_at: 2023-07-14
 ---
-<h3>📚 TO DO LIST</h3>
+## 📚 TO DO LIST
 <br>
 
 > 보유 자격증
