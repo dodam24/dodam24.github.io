@@ -30,6 +30,7 @@ tags:
 - [x] 조주기능사
 - [x] 호텔관리사
 - [x] CRS, DCS - ABACUS, TOPAS
+
 <br>
 
 > 취득 예정 자격증
